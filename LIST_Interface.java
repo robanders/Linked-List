@@ -1,21 +1,3 @@
-/**
- * COMP 410
- *
- * Make your class and its methods public!
- * Don't modify this file!
- * Before zipping: PLEASE REMOVE THE ALLTESTS.java, 410LocalChecks.jar, 
- *  and REMOVE THE JAR FROM BUILD PATH BEFORE ZIPPING!!! 
- * (see powerpoint for instructions)
- *
- * Submission directions: Zip your eclipse project folder 
- * (e.g. Assignment0) for this assignment and upload it to Sakai.
- * Please name your zip file youronyen_assignment0.zip 
- * That folder should contain src and bin folders with 
- * your code/classes.
- * Your LinkedList implementation will implement this interface.
- *
-*/
-
 package LinkedListA0;
 /*
   Interface: The LIST will provide this collection of operations:
